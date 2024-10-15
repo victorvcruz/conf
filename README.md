@@ -51,8 +51,6 @@ func main() {
 }
 ```
 
-## Example
-
 In the above example, if the `DATABASE_URL` environment variable is not set, the default value `'localhost:5432'` will be used. Similarly, if `DEBUG` is not set, it will default to `false`.
 
 ## Supported Data Types
